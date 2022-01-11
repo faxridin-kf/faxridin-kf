@@ -1,4 +1,4 @@
-<h1>👋 Hi there, I am Fakhridin Kuchkarov, Frontend Dev 🚀</h1>
+<h1><img style="width:45px" src="https://camo.githubusercontent.com/09045978189b7fb1072ccbb1de7fefee922be7eaab347760fb101c77970005c8/68747470733a2f2f632e74656e6f722e636f6d2f534e4c395f78685a6c396f41414141692f776176696e672d68616e642d6a6f79706978656c732e676966" />Hi there, I am Fakhridin Kuchkarov, Frontend Dev 🚀</h1>
 <h2>ℹ️ About me</h2>
 
 Extremely motivated to code. I am confident in my ability to come up with interesting ideas for the development of companies
