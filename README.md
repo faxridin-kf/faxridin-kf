@@ -1,16 +1,15 @@
-👋 Hi there, I am Fakhridin Kuchkarov, Frontend Dev 🚀
-
-
-ℹ️ About me
+<h1>👋 Hi there, I am Fakhridin Kuchkarov, Frontend Dev 🚀</h1>
+<h2>ℹ️ About me</h2>
 
 Extremely motivated to code. I am confident in my ability to come up with interesting ideas for the development of companies
 
-🎮INTERESTS AND HOBBIES
+
+<h2>🎮INTERESTS AND HOBBIES</h2>
 
 I love to travel, I love creativity. I am very interested in programming.
 Programming is everything to me! In my free time I read books on self-development
 
-🧰 Toolbox
+<h2>🧰 Toolbox</h2>
 
 <div style="display:flex;">
 <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
@@ -24,22 +23,21 @@ Programming is everything to me! In my free time I read books on self-developmen
 <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
 </div>
 
-🏃‍♂️ My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?faxridin-kf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<h2>🏃‍♂️ My stats</h2>
 
-🏆 My top langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?faxridin-kf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**faxridin-kf/faxridin-kf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faxridin-kf&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+<h2>🏆 My top langs</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faxridin-kf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>🤙 How to reach me</h2>
+
+
+<div style="display:flex; justify-content:space-evenly;">
+
+<p><a href="mailto:faxridin-kf@gmail.com">📫 faxridin-kf@gmail.com</a></p>
+<p><a href="tel:+998995300623">☎️ +998 99 530 06 23</a></p>
+<p><a href="https://t.me/faxridin_kf">📠 t.me/faxridin_kf</a></p>
+<p><a href="https://www.instagram.com/faxridin_kf/">📸 instagram.com/faxridin_kf</a></p>
+</div>
