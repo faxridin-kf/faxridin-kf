@@ -23,6 +23,9 @@ Programming is everything to me! In my free time I read books on self-developmen
 <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg"/>
 <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
 </div>
+
+🏃‍♂️ My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?faxridin-kf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **faxridin-kf/faxridin-kf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
