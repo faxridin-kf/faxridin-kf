@@ -2,6 +2,9 @@
 <h2>ℹ️ About me</h2>
 
 Extremely motivated to code. I am confident in my ability to come up with interesting ideas for the development of companies
+Sociable, cheerful, financial book lover, amateur photographer, student of FERGANA BRANCH OF TASHKENT UNIVERSITY OF INFORMATION TECHNOLOGIES NAMED AFTER MUHAMMAD AL-KHWARIZMI, a Frontend developer still learning something new.
+
+A programmer since 2019
 
 
 <h2>🎮INTERESTS AND HOBBIES</h2>
