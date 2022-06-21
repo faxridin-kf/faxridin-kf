@@ -12,6 +12,8 @@ A programmer since 2019
 I love to travel, I love creativity. I am very interested in programming.
 Programming is everything to me! In my free time I read books on self-development
 
+![Alt text](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg "a title")
+
 <h2>🧰 Toolbox</h2>
 
 <div style="display:flex;">
@@ -33,8 +35,6 @@ Programming is everything to me! In my free time I read books on self-developmen
 <h2>🏆 My top langs</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faxridin-kf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Alt text](https://github.com/joaovitormo/joaovitormo/blob/assets/github-contribution-grid-snake.svg "a title")
 
 <h2>🤙 How to reach me</h2>
 
