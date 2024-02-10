@@ -29,8 +29,9 @@ Programming is everything to me! In my free time I read books on self-developmen
 </div>
 
 <h2>🏃‍♂️ My stats</h2>
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=faxridin-kf&show_icons=true&theme=tokionight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=faxridin-kf&theme=tokionight&hide_border=true" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faxridin-kf&show_icons=true&theme=tokyonight)
 
 <h2>🏆 My top langs</h2>
 
